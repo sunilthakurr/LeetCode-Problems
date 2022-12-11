@@ -1,0 +1,1 @@
+simply solve it by finding maximum of left node and then find the maximum
