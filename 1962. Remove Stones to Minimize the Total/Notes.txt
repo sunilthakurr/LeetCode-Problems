@@ -1,0 +1,19 @@
+Intuition
+We just want to find the maximum element of the piles array k number of times and just replace it with ceil of its half.
+Note :- ceil means
+if element is even then do element / 2.
+else do (element / 2) + 1.
+After doing this operation we will simply return the sum of all the
+elements
+
+Approach
+To getting maximum element each time we will store it in prioriy queue and we know that priority queue by default returns minimum element during poll and peek operation so we reverse its order during the creation of priority queue itself.
+After that we will call poll operation and replace it by ceil(element / 2) k number of times.
+After doing this operation we will simply return the sum of all the elements of our priority queue.
+
+Complexity
+Time complexity:
+O(nlogn)
+
+Space complexity:
+o(1)
