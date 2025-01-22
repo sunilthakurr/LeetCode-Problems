@@ -27,9 +27,6 @@ class Solution {
         if(root1 == null || root2 == null){
             return false;
         }
-        if(root1.val != root2.val){
-            return false;
-        }
-        return solve(root1.left, root2.right) && solve(root1.right, root2.left);
+        return (root1.val == root2.val) && solve(root1.left, root2.right) && solve(root1.right, root2.left);
     }
 }
