@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0518-coin-change-ii) |
+| [1876-map-of-highest-peak](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1876-map-of-highest-peak) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1876-map-of-highest-peak](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1876-map-of-highest-peak) |
 ## Sorting
 |  |
 | ------- |
@@ -35,4 +37,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## Matrix
+|  |
+| ------- |
+| [1876-map-of-highest-peak](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1876-map-of-highest-peak) |
 <!---LeetCode Topics End-->
