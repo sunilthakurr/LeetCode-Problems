@@ -3,8 +3,7 @@ class Solution {
         int n = grid.length;
         int m = grid[0].length;
 
-
-        Set<Integer> row = new HashSet<>();
+        int[] row = new int[n];
         int res = 0;
         for(int i = 0; i < n; i++) {
             int cnt = 0;
@@ -15,7 +14,7 @@ class Solution {
             }
             if(cnt >= 2) {
                 res += cnt;
-                row.add(i);
+                row[i] = 1;
             }
         }
         System.out.println(res);
@@ -26,7 +25,7 @@ class Solution {
             for(int i = 0; i < n; i++) {
                 if(grid[i][j] == 1) {
                     ++cnt;
-                    if(row.contains(i)) {
+                    if(row[i] == 1) {
                         System.out.println("alreayd :- "+i+" "+j);
                         ++alreadyCalculated;
                     }
