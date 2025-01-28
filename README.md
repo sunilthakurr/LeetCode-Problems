@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0101-symmetric-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -63,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0101-symmetric-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -93,4 +95,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1558-course-schedule-iv) |
+## Binary Search
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
