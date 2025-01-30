@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1558-course-schedule-iv](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1876-map-of-highest-peak) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Sorting
 |  |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0684-redundant-connection](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Counting
@@ -120,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1558-course-schedule-iv) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Topological Sort
 |  |
 | ------- |
