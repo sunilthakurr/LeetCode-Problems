@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [3447-clear-digits](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3447-clear-digits) |
 ## Design
 |  |
 | ------- |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [3447-clear-digits](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -183,4 +185,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0173-binary-search-tree-iterator) |
+## Simulation
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
