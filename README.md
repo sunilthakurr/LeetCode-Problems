@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1364-tuple-with-same-product](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1876-map-of-highest-peak](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0518-coin-change-ii) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -212,4 +214,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2107-find-unique-binary-string](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2107-find-unique-binary-string) |
+## Math
+|  |
+| ------- |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 <!---LeetCode Topics End-->
