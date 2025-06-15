@@ -27,7 +27,7 @@ class Solution {
             num = (int) (num % Math.pow(10, len - 1 - i));
         }
         num = temp;
-        System.out.println(x+" "+y);
+        // System.out.println(x+" "+y);
 
         int maxNumber = 0, minNumber = 0, ind = 0;
 
@@ -49,7 +49,7 @@ class Solution {
             }
             ind++;
         }
-        System.out.println(maxNumber + " " + minNumber);
+        // System.out.println(maxNumber + " " + minNumber);
         return maxNumber - minNumber;
     }
 }
