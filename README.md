@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3429-special-array-i) |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Binary Tree
 |  |
 | ------- |
@@ -255,4 +257,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 <!---LeetCode Topics End-->
