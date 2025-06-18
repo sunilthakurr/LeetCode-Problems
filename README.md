@@ -258,4 +258,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
