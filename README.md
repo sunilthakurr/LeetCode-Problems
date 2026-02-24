@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0783-search-in-a-binary-search-tree](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
@@ -146,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0783-search-in-a-binary-search-tree](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
