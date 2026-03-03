@@ -213,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1170-shortest-common-supersequence](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1170-shortest-common-supersequence) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -262,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2551-apply-operations-to-an-array](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3379-transformed-array](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3379-transformed-array) |
@@ -314,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Sliding Window
 |  |
 | ------- |
