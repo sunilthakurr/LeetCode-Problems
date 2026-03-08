@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1876-map-of-highest-peak](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1980-find-unique-binary-string](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1980-find-unique-binary-string) |
 | [2107-find-unique-binary-string](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2107-find-unique-binary-string) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1980-find-unique-binary-string](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1980-find-unique-binary-string) |
 | [2107-find-unique-binary-string](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -220,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1980-find-unique-binary-string](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1980-find-unique-binary-string) |
 | [2107-find-unique-binary-string](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3447-clear-digits](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3447-clear-digits) |
@@ -282,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 |  |
 | ------- |
+| [1980-find-unique-binary-string](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1980-find-unique-binary-string) |
 | [2107-find-unique-binary-string](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2107-find-unique-binary-string) |
 ## Math
 |  |
