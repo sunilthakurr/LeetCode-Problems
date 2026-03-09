@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2262-solving-questions-with-brainpower](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2262-solving-questions-with-brainpower) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -300,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Greedy
 |  |
 | ------- |
