@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1876-map-of-highest-peak](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1876-map-of-highest-peak) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Union Find
 |  |
 | ------- |
@@ -315,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 ## Greedy
