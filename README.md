@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0518-coin-change-ii) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1095-find-in-mountain-array](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1095-find-in-mountain-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
@@ -248,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
+| [1095-find-in-mountain-array](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1095-find-in-mountain-array) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Bit Manipulation
 |  |
@@ -437,4 +439,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3548-equal-sum-grid-partition-ii) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
