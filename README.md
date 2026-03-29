@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0518-coin-change-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0518-coin-change-ii) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -243,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Bit Manipulation
