@@ -2,8 +2,8 @@ class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         return solve(nums1, nums2);
     }
-    public double solve(int[] nums1, int[] nums2) {
-        
+    private double solve(int[] nums1, int[] nums2) {
+
         int n1 = nums1.length;
         int n2 = nums2.length;
 
@@ -11,15 +11,13 @@ class Solution {
             return solve(nums2, nums1);
         }
 
-        int low = 0;
-        int high = n1;
+        int low = 0, high = n1;
 
-        int left = (n1 + n2 + 1) / 2;
+        int left = (n1 + n2 + 1) / 2;      // no. of elements I want in left of segregation
 
         while (low <= high) {
-            
-            int mid1 = low + (high - low) / 2;       // mid of first array
-            int mid2 = left - mid1;                  // mid of second array
+            int mid1 = low + (high - low) / 2;
+            int mid2 = left - mid1;
 
             int l1 = Integer.MIN_VALUE, l2 = Integer.MIN_VALUE;
             int r1 = Integer.MAX_VALUE, r2 = Integer.MAX_VALUE;
