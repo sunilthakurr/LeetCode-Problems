@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3643-flip-square-submatrix-vertically) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Hash Table
 |  |
 | ------- |
@@ -203,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Binary Tree
 |  |
 | ------- |
@@ -296,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [1095-find-in-mountain-array](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1095-find-in-mountain-array) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Bit Manipulation
 |  |
 | ------- |
