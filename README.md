@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0347-top-k-frequent-elements](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0518-coin-change-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0542-01-matrix) |
@@ -97,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0347-top-k-frequent-elements](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -211,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -293,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
@@ -416,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [1046-last-stone-weight](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1046-last-stone-weight) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -496,6 +501,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0190-reverse-bits) |
+| [0347-top-k-frequent-elements](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -545,4 +551,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
