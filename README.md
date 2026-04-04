@@ -169,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0802-find-eventual-safe-states) |
 | [0820-find-eventual-safe-states](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0802-find-eventual-safe-states) |
 | [0820-find-eventual-safe-states](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -312,6 +314,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Topological Sort
 |  |
 | ------- |
+| [0802-find-eventual-safe-states](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0802-find-eventual-safe-states) |
 | [0820-find-eventual-safe-states](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1558-course-schedule-iv) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -525,6 +528,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0547-number-of-provinces](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0802-find-eventual-safe-states) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
