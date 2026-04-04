@@ -1,28 +1,28 @@
 class Solution {
     public boolean isBipartite(int[][] graph) {
         
-        int row = graph.length;
-        int col = graph[0].length;
+        int vertex = graph.length;
 
-        // -1 -> not visited, 0 --> red, 1 --> green
-        int[] color = new int[row];
-        Arrays.fill(color, -1);
+        int[] colors = new int[vertex];
+        Arrays.fill(colors, -1);
 
-        for (int i = 0; i < row; i++) {
-            if (color[i] == -1) {
-                if (dfs(i, 0, color, graph) == false) return false;
+        for (int i = 0; i < graph.length; i++) {
+            if (colors[i] == -1) {
+                if (dfs(graph, colors, 0, i) == false) return false;
             }
         }
         return true;
     }
-    
-    private boolean dfs(int node, int col, int[] color, int[][] graph) {
-        color[node] = col;
 
-        for (int i : graph[node]) {
-            if (color[i] == -1) {
-                if (dfs(i, 1 - col, color, graph) == false) return false; 
-            } else if (color[i] == color[node]) return false;
+    public boolean dfs(int[][] graph, int[] colors, int col, int node) {
+        colors[node] = col;
+
+        for (int vertex: graph[node]) {
+            if (colors[vertex] == -1) {
+                if (dfs(graph, colors, 1 - col, vertex) == false) return false;
+            } else if (colors[vertex] == colors[node]) {
+                return false;
+            }
         }
         return true;
     }
