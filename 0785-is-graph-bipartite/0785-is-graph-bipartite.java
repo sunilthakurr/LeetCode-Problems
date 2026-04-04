@@ -4,6 +4,7 @@ class Solution {
         int vertices = graph.length;
 
         int[] colors = new int[vertices];
+
         Arrays.fill(colors, -1);
 
         for (int i = 0; i < vertices; i++) {
@@ -16,20 +17,20 @@ class Solution {
         return true;
     }
 
-    private boolean bfs(int[][] graph, int[] colors, int col, int vertex) {
-        
+    private boolean bfs(int[][] graph, int[] colors, int col, int node) {
+
         Queue<Integer> q = new LinkedList<>();
-        q.add(vertex);
-        colors[vertex] = col;
+        q.add(node);
+        colors[node] = col;
 
         while (!q.isEmpty()) {
-            vertex = q.poll();
+            node = q.poll();
 
-            for (int node: graph[vertex]) {
-                if (colors[node] == -1) {
-                    colors[node] = 1 - colors[vertex];
-                    q.add(node);
-                } else if (colors[node] == colors[vertex]) {
+            for (int vertex: graph[node]) {
+                if (colors[vertex] == -1) {
+                    colors[vertex] = 1 - colors[node];
+                    q.add(vertex);
+                } else if (colors[vertex] == colors[node]) {
                     return false;
                 }
             }
