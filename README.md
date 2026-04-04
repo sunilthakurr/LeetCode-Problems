@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0518-coin-change-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1046-last-stone-weight](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1046-last-stone-weight) |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0518-coin-change-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1170-shortest-common-supersequence) |
 | [1463-cherry-pickup-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1463-cherry-pickup-ii) |
@@ -181,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0542-01-matrix](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0662-maximum-width-of-binary-tree) |
@@ -247,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0733-flood-fill) |
 | [1396-count-servers-that-communicate](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
 | [1463-cherry-pickup-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1463-cherry-pickup-ii) |
