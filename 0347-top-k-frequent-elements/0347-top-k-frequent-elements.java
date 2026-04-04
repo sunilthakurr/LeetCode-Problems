@@ -10,11 +10,9 @@ class Solution {
         PriorityQueue<int[]> pq = new PriorityQueue<int[]>((a, b) -> b[1] - a[1]);
 
         for (int key: map.keySet()) {
-            int[] arr = new int[2];
-            arr[0] = key;
-            arr[1] = map.get(key);
+            pq.add(new int[]{key, map.get(key)});
 
-            pq.add(arr);
+            // pq.add(arr);
         }
 
         int[] res = new int[k];
