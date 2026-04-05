@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0322-coin-change](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0518-coin-change-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0518-coin-change-ii) |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0322-coin-change](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -199,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0322-coin-change](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
