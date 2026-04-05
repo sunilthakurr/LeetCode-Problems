@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0053-maximum-subarray) |
+| [0072-edit-distance](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0072-edit-distance) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0322-coin-change) |
@@ -360,6 +361,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0072-edit-distance) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0657-robot-return-to-origin](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0657-robot-return-to-origin) |
 | [1143-longest-common-subsequence](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1143-longest-common-subsequence) |
