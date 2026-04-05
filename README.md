@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0518-coin-change-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [1143-longest-common-subsequence](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1143-longest-common-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1170-shortest-common-supersequence) |
 | [1463-cherry-pickup-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1463-cherry-pickup-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -359,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0657-robot-return-to-origin](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0657-robot-return-to-origin) |
+| [1143-longest-common-subsequence](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1143-longest-common-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1170-shortest-common-supersequence) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
