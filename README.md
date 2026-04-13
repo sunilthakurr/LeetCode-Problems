@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
