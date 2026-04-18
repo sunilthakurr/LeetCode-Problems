@@ -497,6 +497,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3783-mirror-distance-of-an-integer](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3783-mirror-distance-of-an-integer) |
 ## Prefix Sum
 |  |
 | ------- |
