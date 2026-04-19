@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1876-map-of-highest-peak](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -362,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [1095-find-in-mountain-array](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1095-find-in-mountain-array) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3488-closest-equal-element-queries](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -431,6 +433,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0908-middle-of-the-linked-list) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2551-apply-operations-to-an-array](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [3643-flip-square-submatrix-vertically](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3643-flip-square-submatrix-vertically) |
 ## Stack
