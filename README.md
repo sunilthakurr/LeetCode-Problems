@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
+| [0396-rotate-function](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0396-rotate-function) |
 | [0518-coin-change-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0733-flood-fill) |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0233-number-of-digit-one](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0233-number-of-digit-one) |
 | [0322-coin-change](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0322-coin-change) |
+| [0396-rotate-function](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0396-rotate-function) |
 | [0518-coin-change-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0542-01-matrix) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -519,6 +521,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0002-add-two-numbers](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0233-number-of-digit-one](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0233-number-of-digit-one) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
+| [0396-rotate-function](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0396-rotate-function) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1622-fancy-sequence](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1622-fancy-sequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
