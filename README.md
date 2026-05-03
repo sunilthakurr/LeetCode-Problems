@@ -412,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0072-edit-distance](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0072-edit-distance) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0657-robot-return-to-origin](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0657-robot-return-to-origin) |
+| [0796-rotate-string](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0796-rotate-string) |
 | [1143-longest-common-subsequence](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1143-longest-common-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1170-shortest-common-supersequence) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -646,6 +647,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String Matching
 |  |
 | ------- |
+| [0796-rotate-string](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0796-rotate-string) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Randomized
 |  |
