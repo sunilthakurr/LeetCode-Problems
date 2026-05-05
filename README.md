@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0056-merge-intervals) |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
@@ -319,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0130-surrounded-regions](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0542-01-matrix) |
