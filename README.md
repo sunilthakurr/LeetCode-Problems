@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1364-tuple-with-same-product](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1980-find-unique-binary-string](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1980-find-unique-binary-string) |
 | [2107-find-unique-binary-string](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2107-find-unique-binary-string) |
@@ -557,6 +559,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
