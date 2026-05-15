@@ -1,7 +1,6 @@
 class Solution {
     public int ladderLength(String beginWord, String endWord, List<String> wordList) {
         wordList.add(beginWord);
-        // wordList.add(endWord);
 
         Map<String, List<String>> adj = new HashMap<>();
         Map<String, Integer> map = new HashMap<>();
@@ -16,12 +15,14 @@ class Solution {
                 String dest = wordList.get(j);
 
                 if (isAdjacentPair(src, dest)) {
-                    List<String> list1 = adj.get(src);
-                    list1.add(dest);
-                    adj.put(src, list1);
-                    List<String> list2 = adj.get(dest);
-                    list2.add(src);
-                    adj.put(dest, list2);
+                    // List<String> list1 = adj.get(src);
+                    // list1.add(dest);
+                    // adj.put(src, list1);
+                    adj.computeIfAbsent(src, k -> new ArrayList<>()).add(dest);
+                    adj.computeIfAbsent(dest, k -> new ArrayList<>()).add(src);
+                    // List<String> list2 = adj.get(dest);
+                    // list2.add(src);
+                    // adj.put(dest, list2);
                 }
             }
         }
