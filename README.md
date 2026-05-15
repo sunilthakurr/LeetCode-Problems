@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0130-surrounded-regions](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
@@ -405,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
