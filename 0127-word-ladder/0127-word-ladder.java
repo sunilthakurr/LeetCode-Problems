@@ -38,9 +38,10 @@ class Solution {
                 if (!map.containsKey(adjNode)) {
                     q.add(adjNode);
                     map.put(adjNode, map.get(node) + 1);
-                } else {
-                    map.put(adjNode, Math.min(map.get(node) + 1, map.get(adjNode)));
-                }
+                } 
+                // else {
+                //     map.put(adjNode, Math.min(map.get(node) + 1, map.get(adjNode)));
+                // }
             }
         }
         
