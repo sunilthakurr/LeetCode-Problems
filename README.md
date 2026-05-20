@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2551-apply-operations-to-an-array](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2573-find-the-string-with-lcp](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2573-find-the-string-with-lcp) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2751-robot-collisions](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2751-robot-collisions) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -160,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -428,6 +430,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2939-maximum-xor-product](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2939-maximum-xor-product) |
 ## String
 |  |
