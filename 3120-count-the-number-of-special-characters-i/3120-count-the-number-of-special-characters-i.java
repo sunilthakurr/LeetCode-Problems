@@ -1,16 +1,18 @@
 class Solution {
-
     public int numberOfSpecialChars(String word) {
-        Set<Character> s = new HashSet<>();
-        for (char c : word.toCharArray()) {
-            s.add(c);
+        Set<Character> set = new HashSet<>();
+
+        for (int i = 0; i < word.length(); i++) {
+            set.add(word.charAt(i));
         }
-        int ans = 0;
-        for (char c = 'a'; c <= 'z'; c++) {
-            if (s.contains(c) && s.contains((char) (c - 'a' + 'A'))) {
-                ans++;
+
+        int cnt = 0;
+        System.out.println(set.toString());
+        for (int i = 0; i < 26; i++) {
+            if (set.contains((char)('a' + i)) && set.contains((char)( 'A' + i))) {
+                ++cnt;
             }
         }
-        return ans;
+        return cnt;
     }
 }
