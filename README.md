@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -310,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Binary Tree
 |  |
@@ -425,6 +427,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Bit Manipulation
 |  |
@@ -502,6 +505,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0908-middle-of-the-linked-list](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2551-apply-operations-to-an-array](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3643-flip-square-submatrix-vertically) |
 ## Stack
 |  |
@@ -604,6 +608,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Linked List
 |  |
 | ------- |
