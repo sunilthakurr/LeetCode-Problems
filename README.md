@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3838-weighted-word-mapping](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -475,6 +476,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3120-count-the-number-of-special-characters-i](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3447-clear-digits](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3447-clear-digits) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3838-weighted-word-mapping](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3838-weighted-word-mapping) |
 ## Design
 |  |
 | ------- |
@@ -545,6 +547,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3379-transformed-array](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3379-transformed-array) |
 | [3447-clear-digits](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3447-clear-digits) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3838-weighted-word-mapping](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3838-weighted-word-mapping) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
