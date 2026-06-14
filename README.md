@@ -509,6 +509,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2551-apply-operations-to-an-array](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3643-flip-square-submatrix-vertically) |
@@ -521,6 +522,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0173-binary-search-tree-iterator](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2751-robot-collisions) |
 | [3447-clear-digits](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3447-clear-digits) |
 ## Monotonic Stack
@@ -632,6 +634,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0908-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
