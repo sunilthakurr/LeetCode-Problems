@@ -52,42 +52,40 @@ class Solution {
                 }
             }
         }
-        System.out.println(Arrays.deepToString(dist));
+        // System.out.println(Arrays.deepToString(dist));
         // return -1;
 
-        boolean[][] vis = new boolean[n][n];
+       boolean[][] vis = new boolean[n][m];
 
-        PriorityQueue<int[]> pq = new PriorityQueue<>((a, b) -> b[0] - a[0]);
-        pq.offer(new int[]{dist[0][0], 0, 0});
+       PriorityQueue<int[]> pq = new PriorityQueue<>((a, b) -> b[0] - a[0]);
+       pq.offer(new int[]{dist[0][0], 0, 0});
 
-        while (!pq.isEmpty()) {
-            int[] curr = pq.poll();
+       while (!pq.isEmpty()) {
+            int[] arr = pq.poll();
+            int cost = arr[0];
+            int row = arr[1];
+            int col = arr[2];
+            
+            if (row == n - 1 && col == m - 1) {
+                return cost;
+            }
 
-            int safe = curr[0];
-            int x = curr[1];
-            int y = curr[2];
-
-            if (x == n - 1 && y == n - 1)
-                return safe;
-
-            if (vis[x][y])
+            if (vis[row][col]) {
                 continue;
+            }
 
-            vis[x][y] = true;
+            vis[row][col] = true;
 
-            for (int k = 0; k < 4; k++) {
-                int newX = x + drow[k];
-                int newY = y + dcol[k];
+            for (int i = 0; i < 4; i++) {
+                int nrow = row + drow[i];
+                int ncol = col + dcol[i];
 
-                if (newX >= 0 && newX < n && newY >= 0 && newY < n
-                        && !vis[newX][newY]) {
-
-                    int newSafe = Math.min(safe, dist[newX][newY]);
-                    pq.offer(new int[]{newSafe, newX, newY});
+                if (nrow >= 0 && nrow < n && ncol >= 0 && ncol < m && !vis[nrow][ncol]) {
+                    int newCost = Math.min(dist[nrow][ncol], cost);
+                    pq.offer(new int[]{newCost, nrow, ncol});
                 }
             }
-        }
-
-        return -1;
+       }
+       return -1;
     }
 }
