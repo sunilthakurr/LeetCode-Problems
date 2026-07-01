@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2784-check-if-array-is-good) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2906-construct-product-matrix](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
@@ -295,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Sorting
 |  |
@@ -375,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2573-find-the-string-with-lcp) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2906-construct-product-matrix](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
@@ -434,6 +437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [1095-find-in-mountain-array](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1095-find-in-mountain-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -566,6 +570,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-last-stone-weight](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1046-last-stone-weight) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -690,6 +695,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1559-detect-cycles-in-2d-grid](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2573-find-the-string-with-lcp) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
 |  |
