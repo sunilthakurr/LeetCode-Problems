@@ -23,7 +23,7 @@ class Solution {
             int row = arr[1];
             int col = arr[2];
 
-            System.out.println(remHealth + " "+row+" "+col);
+            // System.out.println(remHealth + " "+row+" "+col);
 
             if (remHealth <= 0) {
                 return false;
