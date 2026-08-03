@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1364-tuple-with-same-product](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1364-tuple-with-same-product) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1396-count-servers-that-communicate](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1396-count-servers-that-communicate) |
+| [1406-stone-game-iii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1463-cherry-pickup-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1143-longest-common-subsequence](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1143-longest-common-subsequence) |
 | [1170-shortest-common-supersequence](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1170-shortest-common-supersequence) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1406-stone-game-iii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1406-stone-game-iii) |
 | [1463-cherry-pickup-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1463-cherry-pickup-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -602,6 +604,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0396-rotate-function) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1406-stone-game-iii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1406-stone-game-iii) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1622-fancy-sequence](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1622-fancy-sequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -790,4 +793,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1406-stone-game-iii) |
+## Game Theory
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
