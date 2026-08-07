@@ -502,6 +502,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3447-clear-digits](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3447-clear-digits) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3838-weighted-word-mapping](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3838-weighted-word-mapping) |
@@ -596,6 +597,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1980-find-unique-binary-string](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1980-find-unique-binary-string) |
 | [2107-find-unique-binary-string](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2107-find-unique-binary-string) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Math
 |  |
 | ------- |
@@ -617,6 +619,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -654,6 +657,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2573-find-the-string-with-lcp](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2573-find-the-string-with-lcp) |
 | [2939-maximum-xor-product](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2939-maximum-xor-product) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -780,6 +784,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Merge Sort
 |  |
