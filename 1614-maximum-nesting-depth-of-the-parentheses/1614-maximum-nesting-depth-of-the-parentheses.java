@@ -2,19 +2,20 @@ class Solution {
     public int maxDepth(String s) {
         return solve(s);
     }
-    private int solve(String str) {
 
-        int cnt = 0;
+    private int solve(String s) {
+        int oCount = 0;
         int res = 0;
 
-        for (int i = 0; i < str.length(); i++) {
-            char ch = str.charAt(i);
+        for (int i = 0; i < s.length(); i++) {
+            char ch = s.charAt(i);
+
             if (ch == '(') {
-                ++cnt;
-            } if (ch == ')') {
-                --cnt;
+                ++oCount;
+            } else if (ch == ')') {
+                --oCount;
             }
-            res = Math.max(res, cnt);
+            res = Math.max(res, oCount);
         }
         return res;
     }
