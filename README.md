@@ -628,6 +628,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3783-mirror-distance-of-an-integer) |
 ## Prefix Sum
@@ -668,6 +669,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Linked List
 |  |
 | ------- |
