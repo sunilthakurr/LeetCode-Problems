@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3429-special-array-i](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3429-special-array-i) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3488-closest-equal-element-queries) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3546-equal-sum-grid-partition-i) |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Hash Table
@@ -194,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3120-count-the-number-of-special-characters-i](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3488-closest-equal-element-queries](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3488-closest-equal-element-queries) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -599,6 +602,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Backtracking
 |  |
@@ -630,6 +634,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3312-sorted-gcd-pair-queries](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -704,6 +709,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Divide and Conquer
 |  |
 | ------- |
