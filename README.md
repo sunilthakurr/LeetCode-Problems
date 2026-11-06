@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2573-find-the-string-with-lcp](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2573-find-the-string-with-lcp) |
 | [2574-left-and-right-sum-differences](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2751-robot-collisions) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -331,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2463-minimum-total-distance-traveled](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2463-minimum-total-distance-traveled) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2747-count-zero-request-servers](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -708,6 +711,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [2747-count-zero-request-servers](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2747-count-zero-request-servers) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Divide and Conquer
