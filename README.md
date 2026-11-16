@@ -506,6 +506,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1980-find-unique-binary-string](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1980-find-unique-binary-string) |
 | [2107-find-unique-binary-string](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2107-find-unique-binary-string) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2573-find-the-string-with-lcp) |
@@ -585,6 +586,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2069-walking-robot-simulation-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2069-walking-robot-simulation-ii) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2551-apply-operations-to-an-array) |
 | [2751-robot-collisions](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
