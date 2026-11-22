@@ -507,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1980-find-unique-binary-string](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1980-find-unique-binary-string) |
 | [2107-find-unique-binary-string](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2107-find-unique-binary-string) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2452-words-within-two-edits-of-dictionary) |
