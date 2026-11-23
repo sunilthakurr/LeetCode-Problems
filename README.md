@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-last-stone-weight](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1046-last-stone-weight) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1095-find-in-mountain-array](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1095-find-in-mountain-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1364-tuple-with-same-product](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1364-tuple-with-same-product) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -528,6 +529,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0173-binary-search-tree-iterator](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
+| [1352-product-of-the-last-k-numbers](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1622-fancy-sequence](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2069-walking-robot-simulation-ii) |
@@ -627,6 +629,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0396-rotate-function](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0396-rotate-function) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1352-product-of-the-last-k-numbers](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1406-stone-game-iii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1406-stone-game-iii) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1622-fancy-sequence](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1622-fancy-sequence) |
@@ -653,6 +656,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [1352-product-of-the-last-k-numbers](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1352-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -849,4 +853,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
