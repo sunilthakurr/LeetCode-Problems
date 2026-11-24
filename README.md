@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3379-transformed-array](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3379-transformed-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3429-special-array-i](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3429-special-array-i) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -644,6 +645,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -723,6 +725,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [2747-count-zero-request-servers](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/2747-count-zero-request-servers) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Divide and Conquer
 |  |
@@ -780,6 +783,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/1291-sequential-digits) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -818,6 +822,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/sunilthakurr/LeetCode-Problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Merge Sort
 |  |
